@@ -1,10 +1,10 @@
 {
-  "name": "envguard",
-  "version": "1.0.0",
+  "name": "syr-envguard",
+  "version": "1.0.1",
   "description": "🛡️ A CLI tool to encrypt and securely share your .env files",
   "main": "src/index.js",
   "bin": {
-    "envguard": "./src/index.js"
+    "syr-envguard": "./src/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
